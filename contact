@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+	<title> #News </title>
+        <style>
+
+                ul {
+
+                        list-style-type:none;
+
+                        margin: 0;
+
+                        padding: 0;
+
+                        overflow: hidden;
+
+                        background-color: #333;
+
+                }
+
+                li {
+
+                        float: left;
+
+                }
+
+                
+
+                li a:hover{
+
+                        background-color: #111
+
+                }
+
+                
+
+                li a{
+
+                        padding: 14px 16px;
+
+                        text-align: center;
+
+                        display: block;
+
+                        color: white;
+
+                        text-decoration:none;
+
+                }
+
+        </style>
+
+</head>
+
+<body>
+
+        <ul>
+
+
+
+                <li><a href="home_navbar_warmup.html">Home</a></li>
+
+                <li><a href="news_navbar_warmup.html">News</a></li>
+
+                <li><a href="contact_navbar_warmup.html">Contact</a></li>
+
+                <li><a href="about_navbar_warmup.html">About</a></li>
+
+        </ul>
+
+	<h1> News and Statistics </h1>
+		<p> Nearly 50% of the United State's health care expenditure in is the private sector. 
+			Also, Nigeria's health care system is in shambles, as there is an uneven distribution of health 
+			care workers. The lack of care the people are getting is made evident by the fact 62.9% of Nigeria's total deaths 
+			in 2016 were the result of communicable diseases, maternal, prenatal, and nutrition conditions. 
+		</p>
+
+</body>
+
+
+
+</html>
+
+		
+
+	
